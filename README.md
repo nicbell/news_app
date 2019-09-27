@@ -1,1 +1,1 @@
-# sliide_tech_test
+# A simple news feed
