@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Sliide News</string>
+
+    <string name="api_base">https://contentapi.celltick.com/mediaApi/v1.0/</string>
+    <string name="api_key">t4QCg6zCkFrCW5CTJii52IAQojqNmyeJ</string>
+    <string name="api_publisher_id">Magazine_from_AppDevWebsite</string>
+    <string name="api_user_id" tools:ignore="TypographyDashes">eccc7785-001c-4341-88f8-eddf15f3aa4a</string>
+
+    <string name="menu_refresh">Refresh</string>
+    <string name="btn_retry">Retry</string>
+
+
+    <!--
+     content?
+        key=t4QCg6zCkFrCW5CTJii52IAQojqNmyeJ
+        &publisherId=Magazine_from_AppDevWebsite
+        &userId=eccc7785-001c-4341-88f8-eddf15f3aa4a
+        &countryCode=US
+        &language=en
+        &limit=100
+        &offset=0
+        -->
+</resources>
